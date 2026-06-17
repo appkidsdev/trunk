@@ -44,3 +44,8 @@ To avoid java.lang.OutOfMemory exceptions, a resolution version of the picture m
 
 * Added more picture.
 * Changed Russian letters to English letters.
+
+## Version 3.0 Release
+
+* Up-to-date
+* minimum Android 6.0 (Marshmallow)
