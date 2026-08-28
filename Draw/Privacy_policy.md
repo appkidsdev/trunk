@@ -127,4 +127,6 @@ These changes are effective immediately after they are posted on this page.
 
 If you have any questions about this Privacy Policy, please contact us:
 
-By email: appkidsdev@gmail.com
+By email: :Contact: 
+appkidsdev@gmail.com
+appdevsup@yandex.ru
