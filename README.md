@@ -1,6 +1,8 @@
 :Author: appkidsdev
 
-:Contact: appkidsdev@gmail.com
+:Contact: 
+appkidsdev@gmail.com
+appdevsup@yandex.ru
 
 # Contents
 
