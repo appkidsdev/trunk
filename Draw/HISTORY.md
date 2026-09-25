@@ -57,3 +57,7 @@ To avoid java.lang.OutOfMemory exceptions, a resolution version of the picture m
 * Up-to-date
 * minimum Android 6.0 (Marshmallow)
 * Add lowercase letters
+
+## Version 4.1 Release.  Available on RuStore.
+
+* Update Privacy Policy
